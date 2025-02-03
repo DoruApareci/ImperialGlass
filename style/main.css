@@ -1,0 +1,11 @@
+.navbar{
+    background-color:#edf7f6 ;
+    height: 80px;
+    border-radius: 12px;
+}
+
+.logo{
+    width: 110px;
+    height: 60px;
+    margin-left: 20px;
+}
